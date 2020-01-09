@@ -1,0 +1,13 @@
+---
+description: Driver for Amphenol DLH pressure sensor
+fullname: lib.amphenol.dlh
+info:
+    chip_manufacturer: Amphenol 
+    chip_name: DLH 
+    name: Pressure sensor
+    type: Sensor
+keywords:
+- Amphenol 
+- pressure
+title: DLH Pressure Sensor
+...
